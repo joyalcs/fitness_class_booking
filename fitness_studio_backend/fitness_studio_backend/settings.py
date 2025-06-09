@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     #libraries
     'rest_framework',
     'corsheaders', 
+    'drf_yasg',
     #apps
     'booking',
 ]
